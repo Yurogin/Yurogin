@@ -1,21 +1,46 @@
-### Salut, moi c'est Yur0 👋
+<div align="center">
 
-Je fais des petits outils qui rendent service et des jeux qui ne servent à rien. Tout finit dans **[STLKM](https://stlkm.fr)**, mon hub d'applications : un clic pour installer, et ça se met à jour tout seul.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:DB2777&height=170&section=header&text=Yur0&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=STLKM&descAlignY=60&descSize=18" width="100%" />
 
-**En ce moment**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F97316&center=true&vCenter=true&width=560&lines=Useful+little+tools+%26+useless+little+games;Des+petits+outils+utiles+et+des+jeux+inutiles;Everything+ends+up+in+the+STLKM+hub" />
 
-- 🗄️ **[discordb](https://github.com/Yurogin/discordb)** : un serveur Discord comme base de données NoSQL. Un salon = une table, un message = un document JSON. `npm i discordb`
-- 📦 **[stlkm-hub](https://github.com/Yurogin/stlkm-hub)** : le hub STLKM. Il lit mes dépôts publics et les rend installables en un clic. Rust + Tauri.
+<br/>
 
-**Outils**
+<a href="https://stlkm.fr"><img src="https://img.shields.io/badge/stlkm.fr-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/Yurogin/stlkm-hub/releases/latest/download/STLKM-setup.exe"><img src="https://img.shields.io/badge/STLKM_Hub-Download-DB2777?style=for-the-badge&logo=windows&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Yurogin&color=7C3AED&style=for-the-badge&label=views" />
 
-- 🧹 **[cleanFiles](https://github.com/Yurogin/cleanFiles)** : copie un projet en version publiable, sans secrets ni fichiers sensibles, avec un rapport.
-- ▶️ **[easyStart](https://github.com/Yurogin/easyStart)** : lance tes projets Node et Python en un clic, sans terminal.
+</div>
 
-**Pour jouer**
+---
 
-- 📯 **[klaxon](https://github.com/Yurogin/klaxon)** : klaxonne tes potes d'ordi à ordi, de 2 à 6. Aussi sur [klaxon.stlkm.fr](https://klaxon.stlkm.fr).
-- 🎵 **[fnfCLI](https://github.com/Yurogin/fnfCLI)** : Friday Night Funkin' dans un terminal, bande-son chiptune générée à la volée.
-- 🐍 **[RSnake](https://github.com/Yurogin/RSnake)** : un Snake en Python.
+🇬🇧 Hi! I'm **Yur0**. I build small tools and games, and they all land in **[STLKM Hub](https://github.com/Yurogin/stlkm-hub)**: one click to install any of my apps, and they keep themselves up to date. Everything else lives on **[stlkm.fr](https://stlkm.fr)**.
 
-<sub>Rust · TypeScript · Python · Node</sub>
+🇫🇷 Salut ! Moi c'est **Yur0**. Je fais des petits outils et des jeux, et tout finit dans le **[hub STLKM](https://github.com/Yurogin/stlkm-hub)** : un clic pour installer mes applis, et elles se mettent à jour toutes seules. Le reste est sur **[stlkm.fr](https://stlkm.fr)**.
+
+<div align="center">
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=rust,ts,py,nodejs,react,nextjs,tailwind,tauri&theme=dark" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yurogin&theme=radical" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yurogin&theme=radical" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yurogin&theme=radical&utcOffset=2" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=Yurogin&hide_border=true&background=141321&ring=F97316&fire=DB2777&currStreakLabel=F97316&sideLabels=FE428E&currStreakNum=ffffff&sideNums=ffffff&dates=A9FEF7&stroke=2A2A3E" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yurogin&theme=radical" height="170" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yurogin/Yurogin/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Yurogin/Yurogin/output/snake.svg" width="100%" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,100:F97316&height=100&section=footer" width="100%" />
+
+</div>
